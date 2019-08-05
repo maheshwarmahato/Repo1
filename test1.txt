@@ -1,0 +1,10 @@
+ Volume in drive C has no label.
+ Volume Serial Number is 0ABE-9F24
+
+ Directory of C:\Users\Mahesh\Desktop\GitDemo
+
+08/05/2019  11:11 AM    <DIR>          .
+08/05/2019  11:11 AM    <DIR>          ..
+08/05/2019  11:11 AM                 0 test1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  62,858,289,152 bytes free
